@@ -6,8 +6,8 @@
 
 var config = {
     user: 'db_e77f03bb_9460_4d68_864f_1d39e5fc06e8_ExternalReader',
-    password: 'XD.GATZuMm0i0nV',
-    server: 'ckj99mk65b.database.windows.net',
+    password: 'RI6$SAioROseAq5',
+    server: 't3a538cv95.database.windows.net',
     database: 'db_e77f03bb_9460_4d68_864f_1d39e5fc06e8',
     options: {
         encrypt: true
